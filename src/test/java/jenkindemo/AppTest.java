@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  */
 public class AppTest {
     /**
-     * Rigorous Test.
+     * RigorousTest.
      */
     @Test
     public void testApp() {
